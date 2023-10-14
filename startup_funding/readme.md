@@ -1,8 +1,8 @@
 <h1> Indian Startup EDA </h1>
 
-<h2> I got this data from somewhere online. I cleaned this data as much as I could. I did an Exploratory Data Analysis on this data and came up with some inferences.</h2>
+<p> I got this data from somewhere online. I cleaned this data as much as I could. I did an Exploratory Data Analysis on this data and came up with some inferences.</p>
 
-<h2> I got this inference : </h2> 
+<b> I got this inference : </b> 
 <p> Investors have more invested in the Consumer Internet, E-Commerce, and technology sector.</p>
 <p> Softbank Group has invested more money in the Consumer Internet and E-Commerce sector.</p>
 <p> Sub-vertical Bike Taxi has more investment.</p>
